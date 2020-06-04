@@ -15,5 +15,5 @@ print(f.origin)
 print(f.destination)
 print(f.duration)
 
-if __name__ = "__main__":
+if __name__ == "__main__":
     main()
