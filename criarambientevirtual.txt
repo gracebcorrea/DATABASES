@@ -1,0 +1,16 @@
+
+
+
+
+
+
+#Bash windows
+#virtualenv venv    - cria ambiente virutal (só uma vez)
+#para desativar VENV digite deactivate
+#source venv/Scripts/activate      (ativar ambiente virutal - toda vez que entrar no bash)
+#pip install requests    (verifica se tem atualizaçoes)
+#flask --version
+# export FLASK_ENV=development
+# export FLASK_APP=application.py
+# python -m flask run  (ou flask run)
+#--host=0.0.0.0
