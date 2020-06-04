@@ -5,13 +5,13 @@ id;origin;destination;duration
 4;Berlim;Paris;180
 5;Berlim;T�quio;681
 6;Berlim;Estocolmo;849
-7;Berlim;Berna;Berna
+7;Berlim;Berna;210
 8;Berlim;Lima;145
 9;Berlim;Roma;180
 10;Brasilia;Berlim;738
 11;Brasilia;Santiago;150
 12;Brasilia;Washignton;540
-13;Brasilia;Paris;Washignton0
+13;Brasilia;Paris;540
 14;Brasilia;T�quio;840
 15;Brasilia;Estocolmo;210
 16;Brasilia;Berna;558
@@ -20,7 +20,7 @@ id;origin;destination;duration
 19;Santiago;Berlim;850
 20;Santiago;Brasilia;150
 21;Santiago;Washignton;600
-22;Santiago;Paris;Washignton0
+22;Santiago;Paris;650
 23;Santiago;T�quio;840
 24;Santiago;Estocolmo;210
 25;Santiago;Berna;558
@@ -36,7 +36,7 @@ id;origin;destination;duration
 35;Washignton;Lima;540
 36;Washignton;Roma;540
 37;Paris;Berlim;180
-38;Paris;Brasilia;Washignton0
+38;Paris;Brasilia;480
 39;Paris;Santiago;600
 40;Paris;Washignton;480
 41;Paris;T�quio;1440
@@ -63,7 +63,7 @@ id;origin;destination;duration
 62;Estocolmo;Berna;800
 63;Estocolmo;Lima;730
 64;Estocolmo;Roma;740
-65;Berna;Berlim;Berna
+65;Berna;Berlim;230
 66;Berna;Brasilia;558
 67;Berna;Santiago;800
 68;Berna;Washignton;800
