@@ -4,13 +4,13 @@ class flight:
         self.destination = destination
         self.duration = duration
 
-def print_info(self):
-    print(f"Flight Origin: {self.origin} ")
-    print(f"Flight Destination: {self.Destination} ")
-    print(f"Flight Duration: {self.Duration} minutes ")
+    def print_info(self):
+        print(f"Flight Origin: {self.origin} ")
+        print(f"Flight Destination: {self.Destination} ")
+        print(f"Flight Duration: {self.Duration} minutes ")
 
-def delay(self, amount):
-    self.duration += amount
+    def delay(self, amount):
+        self.duration += amount
 
 def main():
     f1 = Flight(origin="New York", destination="Paris", duration=540)
