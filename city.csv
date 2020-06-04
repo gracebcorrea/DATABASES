@@ -1,197 +1,198 @@
-1;Afeganistão;Cabul;Ásia
-2;África do Sul;Pretória;África
-3;Albânia;Tirana;Europa
+id;country;city,continent
+1;Afeganistï¿½o;Cabul;ï¿½sia
+2;ï¿½frica do Sul;Pretï¿½ria;ï¿½frica
+3;Albï¿½nia;Tirana;Europa
 4;Alemanha;Berlim;Europa
 5;Andorra;Andorra-a-Velha;Europa
-6;Angola;Luanda;África
-7;Antiga e Barbuda;São João;América
-8;Arábia Saudita;Riade;Ásia
-9;Argélia;Argel;África
-10;Argentina;Buenos Aires;América
-11;Arménia;Erevã;Ásia
-12;Austrália;Camberra;Oceania
-13;Áustria;Viena;Europa
-14;Azerbaijão;Bacu;Ásia
-15;Bahamas;Nassau;América
-16;Bangladexe;Daca;Ásia
-17;Barbados;Bridgetown;América
-18;Barém;Manama;Ásia
-19;Bélgica;Bruxelas;Europa
-20;Belize;Belmopã;América
-21;Benim;Porto Novo;África
-22;Bielorrússia;Minsque;Europa
-23;Bolívia;Sucre;América
-24;Bósnia e Herzegovina;Saraievo;Europa
-25;Botsuana;Gaborone;África
-26;Brasil;Brasília;América
-27;Brunei;Bandar Seri Begauã;Ásia
-28;Bulgária;Sófia;Europa
-29;Burquina Faso;Uagadugu;África
-30;Burúndi;Bujumbura;África
-31;Butão;Timbu;Ásia
-32;Cabo Verde;Praia;África
-33;Camarões;Iaundé;África
-34;Camboja;Pnom Pene;Ásia
-35;Canadá;Otava;América
-36;Catar;Doa;Ásia
-37;Cazaquistão;Astana;Ásia
-38;Chade;Jamena;África
-39;Chile;Santiago;América
-40;China;Pequim;Ásia
-41;Chipre;Nicósia;Europa
-42;Colômbia;Bogotá;América
-43;Comores;Moroni;África
-44;Congo-Brazzaville;Brazavile;África
-45;Coreia do Norte;Pionguiangue;Ásia
-46;Coreia do Sul;Seul;Ásia
+6;Angola;Luanda;ï¿½frica
+7;Antiga e Barbuda;Sï¿½o Joï¿½o;Amï¿½rica
+8;Arï¿½bia Saudita;Riade;ï¿½sia
+9;Argï¿½lia;Argel;ï¿½frica
+10;Argentina;Buenos Aires;Amï¿½rica
+11;Armï¿½nia;Erevï¿½;ï¿½sia
+12;Austrï¿½lia;Camberra;Oceania
+13;ï¿½ustria;Viena;Europa
+14;Azerbaijï¿½o;Bacu;ï¿½sia
+15;Bahamas;Nassau;Amï¿½rica
+16;Bangladexe;Daca;ï¿½sia
+17;Barbados;Bridgetown;Amï¿½rica
+18;Barï¿½m;Manama;ï¿½sia
+19;Bï¿½lgica;Bruxelas;Europa
+20;Belize;Belmopï¿½;Amï¿½rica
+21;Benim;Porto Novo;ï¿½frica
+22;Bielorrï¿½ssia;Minsque;Europa
+23;Bolï¿½via;Sucre;Amï¿½rica
+24;Bï¿½snia e Herzegovina;Saraievo;Europa
+25;Botsuana;Gaborone;ï¿½frica
+26;Brasil;Brasï¿½lia;Amï¿½rica
+27;Brunei;Bandar Seri Begauï¿½;ï¿½sia
+28;Bulgï¿½ria;Sï¿½fia;Europa
+29;Burquina Faso;Uagadugu;ï¿½frica
+30;Burï¿½ndi;Bujumbura;ï¿½frica
+31;Butï¿½o;Timbu;ï¿½sia
+32;Cabo Verde;Praia;ï¿½frica
+33;Camarï¿½es;Iaundï¿½;ï¿½frica
+34;Camboja;Pnom Pene;ï¿½sia
+35;Canadï¿½;Otava;Amï¿½rica
+36;Catar;Doa;ï¿½sia
+37;Cazaquistï¿½o;Astana;ï¿½sia
+38;Chade;Jamena;ï¿½frica
+39;Chile;Santiago;Amï¿½rica
+40;China;Pequim;ï¿½sia
+41;Chipre;Nicï¿½sia;Europa
+42;Colï¿½mbia;Bogotï¿½;Amï¿½rica
+43;Comores;Moroni;ï¿½frica
+44;Congo-Brazzaville;Brazavile;ï¿½frica
+45;Coreia do Norte;Pionguiangue;ï¿½sia
+46;Coreia do Sul;Seul;ï¿½sia
 47;Cosovo;Pristina;Europa
-48;Costa do Marfim;Iamussucro;África
-49;Costa Rica;São José;América
-50;Croácia;Zagrebe;Europa
-51;Cuaite;Cidade do Cuaite;Ásia
-52;Cuba;Havana;América
+48;Costa do Marfim;Iamussucro;ï¿½frica
+49;Costa Rica;Sï¿½o Josï¿½;Amï¿½rica
+50;Croï¿½cia;Zagrebe;Europa
+51;Cuaite;Cidade do Cuaite;ï¿½sia
+52;Cuba;Havana;Amï¿½rica
 53;Dinamarca;Copenhaga;Europa
-54;Dominica;Roseau;América
-55;Egito;Cairo;África
-56;Emirados Árabes Unidos;Abu Dabi;Ásia
-57;Equador;Quito;América
-58;Eritreia;Asmara;África
-59;Eslováquia;Bratislava;Europa
-60;Eslovénia;Liubliana;Europa
+54;Dominica;Roseau;Amï¿½rica
+55;Egito;Cairo;ï¿½frica
+56;Emirados ï¿½rabes Unidos;Abu Dabi;ï¿½sia
+57;Equador;Quito;Amï¿½rica
+58;Eritreia;Asmara;ï¿½frica
+59;Eslovï¿½quia;Bratislava;Europa
+60;Eslovï¿½nia;Liubliana;Europa
 61;Espanha;Madrid;Europa
-62;Estado da Palestina;Jerusalém Oriental;Ásia
-63;Estados Unidos;Washington, D.C.;América
-64;Estónia;Talim;Europa
-65;Etiópia;Adis Abeba;África
+62;Estado da Palestina;Jerusalï¿½m Oriental;ï¿½sia
+63;Estados Unidos;Washington, D.C.;Amï¿½rica
+64;Estï¿½nia;Talim;Europa
+65;Etiï¿½pia;Adis Abeba;ï¿½frica
 66;Fiji;Suva;Oceania
-67;Filipinas;Manila;Ásia
-68;Finlândia;Helsínquia;Europa
-69;França;Paris;Europa
-70;Gabão;Libreville;África
-71;Gâmbia;Banjul;África
-72;Gana;Acra;África
-73;Geórgia;Tebilíssi;Ásia
-74;Granada;São Jorge;América
-75;Grécia;Atenas;Europa
-76;Guatemala;Cidade da Guatemala;América
-77;Guiana;Georgetown;América
-78;Guiné;Conacri;África
-79;Guiné Equatorial;Malabo;África
-80;Guiné-Bissau;Bissau;África
-81;Haiti;Porto Príncipe;América
-82;Honduras;Tegucigalpa;América
+67;Filipinas;Manila;ï¿½sia
+68;Finlï¿½ndia;Helsï¿½nquia;Europa
+69;Franï¿½a;Paris;Europa
+70;Gabï¿½o;Libreville;ï¿½frica
+71;Gï¿½mbia;Banjul;ï¿½frica
+72;Gana;Acra;ï¿½frica
+73;Geï¿½rgia;Tebilï¿½ssi;ï¿½sia
+74;Granada;Sï¿½o Jorge;Amï¿½rica
+75;Grï¿½cia;Atenas;Europa
+76;Guatemala;Cidade da Guatemala;Amï¿½rica
+77;Guiana;Georgetown;Amï¿½rica
+78;Guinï¿½;Conacri;ï¿½frica
+79;Guinï¿½ Equatorial;Malabo;ï¿½frica
+80;Guinï¿½-Bissau;Bissau;ï¿½frica
+81;Haiti;Porto Prï¿½ncipe;Amï¿½rica
+82;Honduras;Tegucigalpa;Amï¿½rica
 83;Hungria;Budapeste;Europa
-84;Iémen;Saná;Ásia
+84;Iï¿½men;Sanï¿½;ï¿½sia
 85;Ilhas Marechal;Majuro;Oceania
-86;Índia;Nova Déli;Ásia
-87;Indonésia;Jacarta;Ásia
-88;Irão;Teerão;Ásia
-89;Iraque;Bagdade;Ásia
+86;ï¿½ndia;Nova Dï¿½li;ï¿½sia
+87;Indonï¿½sia;Jacarta;ï¿½sia
+88;Irï¿½o;Teerï¿½o;ï¿½sia
+89;Iraque;Bagdade;ï¿½sia
 90;Irlanda;Dublim;Europa
-91;Islândia;Reiquiavique;Europa
-92;Israel;Jerusalém;Ásia
-93;Itália;Roma;Europa
-94;Jamaica;Kingston;América
-95;Japão;Tóquio;Ásia
-96;Jibuti;Jibuti;África
-97;Jordânia;Amã;Ásia
-98;Laus;Vienciana;Ásia
-99;Lesoto;Maseru;África
-100;Letónia;Riga;Europa
-101;Líbano;Beirute;Ásia
-102;Libéria;Monróvia;África
-103;Líbia;Trípoli;África
+91;Islï¿½ndia;Reiquiavique;Europa
+92;Israel;Jerusalï¿½m;ï¿½sia
+93;Itï¿½lia;Roma;Europa
+94;Jamaica;Kingston;Amï¿½rica
+95;Japï¿½o;Tï¿½quio;ï¿½sia
+96;Jibuti;Jibuti;ï¿½frica
+97;Jordï¿½nia;Amï¿½;ï¿½sia
+98;Laus;Vienciana;ï¿½sia
+99;Lesoto;Maseru;ï¿½frica
+100;Letï¿½nia;Riga;Europa
+101;Lï¿½bano;Beirute;ï¿½sia
+102;Libï¿½ria;Monrï¿½via;ï¿½frica
+103;Lï¿½bia;Trï¿½poli;ï¿½frica
 104;Listenstaine;Vaduz;Europa
-105;Lituânia;Vílnius;Europa
+105;Lituï¿½nia;Vï¿½lnius;Europa
 106;Luxemburgo;Luxemburgo;Europa
-107;Macedónia;Escópia;Europa
-108;Madagáscar;Antananarivo;África
-109;Malásia;Cuala Lumpur;Ásia
-110;Maláui;Lilôngue;África
-111;Maldivas;Malé;Ásia
-112;Mali;Bamaco;África
+107;Macedï¿½nia;Escï¿½pia;Europa
+108;Madagï¿½scar;Antananarivo;ï¿½frica
+109;Malï¿½sia;Cuala Lumpur;ï¿½sia
+110;Malï¿½ui;Lilï¿½ngue;ï¿½frica
+111;Maldivas;Malï¿½;ï¿½sia
+112;Mali;Bamaco;ï¿½frica
 113;Malta;Valeta;Europa
-114;Marrocos;Rebate;África
-115;Maurícia;Porto Luís;África
-116;Mauritânia;Nuaquechote;África
-117;México;Cidade do México;América
-118;Mianmar;Nepiedó;Ásia
-119;Micronésia;Paliquir;Oceania
-120;Moçambique;Maputo;África
-121;Moldávia;Quixinau;Europa
-122;Mónaco;Mónaco;Europa
-123;Mongólia;Ulã Bator;Ásia
+114;Marrocos;Rebate;ï¿½frica
+115;Maurï¿½cia;Porto Luï¿½s;ï¿½frica
+116;Mauritï¿½nia;Nuaquechote;ï¿½frica
+117;Mï¿½xico;Cidade do Mï¿½xico;Amï¿½rica
+118;Mianmar;Nepiedï¿½;ï¿½sia
+119;Micronï¿½sia;Paliquir;Oceania
+120;Moï¿½ambique;Maputo;ï¿½frica
+121;Moldï¿½via;Quixinau;Europa
+122;Mï¿½naco;Mï¿½naco;Europa
+123;Mongï¿½lia;Ulï¿½ Bator;ï¿½sia
 124;Montenegro;Podgoritsa;Europa
-125;Namíbia;Vinduque;África
-126;Nauru;Iarém;Oceania
-127;Nepal;Catmandu;Ásia
-128;Nicarágua;Manágua;América
-129;Níger;Niamei;África
-130;Nigéria;Abuja;África
+125;Namï¿½bia;Vinduque;ï¿½frica
+126;Nauru;Iarï¿½m;Oceania
+127;Nepal;Catmandu;ï¿½sia
+128;Nicarï¿½gua;Manï¿½gua;Amï¿½rica
+129;Nï¿½ger;Niamei;ï¿½frica
+130;Nigï¿½ria;Abuja;ï¿½frica
 131;Noruega;Oslo;Europa
-132;Nova Zelândia;Wellington;Oceania
-133;Omã;Mascate;Ásia
-134;Países Baixos;Amesterdão;Europa
+132;Nova Zelï¿½ndia;Wellington;Oceania
+133;Omï¿½;Mascate;ï¿½sia
+134;Paï¿½ses Baixos;Amesterdï¿½o;Europa
 135;Palau;Ngerulmud;Oceania
-136;Panamá;Cidade do Panamá;América
-137;Papua Nova Guiné;Porto Moresby;Oceania
-138;Paquistão;Islamabade;Ásia
-139;Paraguai;Assunção;América
-140;Peru;Lima;América
-141;Polónia;Varsóvia;Europa
+136;Panamï¿½;Cidade do Panamï¿½;Amï¿½rica
+137;Papua Nova Guinï¿½;Porto Moresby;Oceania
+138;Paquistï¿½o;Islamabade;ï¿½sia
+139;Paraguai;Assunï¿½ï¿½o;Amï¿½rica
+140;Peru;Lima;Amï¿½rica
+141;Polï¿½nia;Varsï¿½via;Europa
 142;Portugal;Lisboa;Europa
-143;Quénia;Nairóbi;África
-144;Quirguistão;Bisqueque;Ásia
-145;Quiribáti;Taraua do Sul;Oceania
+143;Quï¿½nia;Nairï¿½bi;ï¿½frica
+144;Quirguistï¿½o;Bisqueque;ï¿½sia
+145;Quiribï¿½ti;Taraua do Sul;Oceania
 146;Reino Unido;Londres;Europa
-147;República Centro-Africana;Bangui;África
-148;República Checa;Praga;Europa
-149;República Democrática do Congo;Quinxassa;África
-150;República Dominicana;São Domingos;América
-151;Roménia;Bucareste;Europa
-152;Ruanda;Quigali;África
-153;Rússia;Moscovo;Europa
-154;Salomão;Honiara;Oceania
-155;Salvador;São Salvador;América
+147;Repï¿½blica Centro-Africana;Bangui;ï¿½frica
+148;Repï¿½blica Checa;Praga;Europa
+149;Repï¿½blica Democrï¿½tica do Congo;Quinxassa;ï¿½frica
+150;Repï¿½blica Dominicana;Sï¿½o Domingos;Amï¿½rica
+151;Romï¿½nia;Bucareste;Europa
+152;Ruanda;Quigali;ï¿½frica
+153;Rï¿½ssia;Moscovo;Europa
+154;Salomï¿½o;Honiara;Oceania
+155;Salvador;Sï¿½o Salvador;Amï¿½rica
 156;Samoa;Apia;Oceania
-157;Santa Lúcia;Castries;América
-158;São Cristóvão e Neves;Basseterre;América
-159;São Marinho;São Marinho;Europa
-160;São Tomé e Príncipe;São Tomé;África
-161;São Vicente e Granadinas;Kingstown;América
-162;Seicheles;Vitória;África
-163;Senegal;Dacar;África
-164;Serra Leoa;Freetown;África
-165;Sérvia;Belgrado;Europa
-166;Singapura;Singapura;Ásia
-167;Síria;Damasco;Ásia
-168;Somália;Mogadíscio;África
-169;Sri Lanca;Sri Jaiavardenapura-Cota;Ásia
-170;Suazilândia;Lobamba;África
-171;Sudão;Cartum;África
-172;Sudão do Sul;Juba;África
-173;Suécia;Estocolmo;Europa
-174;Suíça;Berna;Europa
-175;Suriname;Paramaribo;América
-176;Tailândia;Banguecoque;Ásia
-177;Taiuã;Taipé;Ásia
-178;Tajiquistão;Duchambé;Ásia
-179;Tanzânia;Dodoma;África
-180;Timor-Leste;Díli;Oceania
-181;Togo;Lomé;África
+157;Santa Lï¿½cia;Castries;Amï¿½rica
+158;Sï¿½o Cristï¿½vï¿½o e Neves;Basseterre;Amï¿½rica
+159;Sï¿½o Marinho;Sï¿½o Marinho;Europa
+160;Sï¿½o Tomï¿½ e Prï¿½ncipe;Sï¿½o Tomï¿½;ï¿½frica
+161;Sï¿½o Vicente e Granadinas;Kingstown;Amï¿½rica
+162;Seicheles;Vitï¿½ria;ï¿½frica
+163;Senegal;Dacar;ï¿½frica
+164;Serra Leoa;Freetown;ï¿½frica
+165;Sï¿½rvia;Belgrado;Europa
+166;Singapura;Singapura;ï¿½sia
+167;Sï¿½ria;Damasco;ï¿½sia
+168;Somï¿½lia;Mogadï¿½scio;ï¿½frica
+169;Sri Lanca;Sri Jaiavardenapura-Cota;ï¿½sia
+170;Suazilï¿½ndia;Lobamba;ï¿½frica
+171;Sudï¿½o;Cartum;ï¿½frica
+172;Sudï¿½o do Sul;Juba;ï¿½frica
+173;Suï¿½cia;Estocolmo;Europa
+174;Suï¿½ï¿½a;Berna;Europa
+175;Suriname;Paramaribo;Amï¿½rica
+176;Tailï¿½ndia;Banguecoque;ï¿½sia
+177;Taiuï¿½;Taipï¿½;ï¿½sia
+178;Tajiquistï¿½o;Duchambï¿½;ï¿½sia
+179;Tanzï¿½nia;Dodoma;ï¿½frica
+180;Timor-Leste;Dï¿½li;Oceania
+181;Togo;Lomï¿½;ï¿½frica
 182;Tonga;Nucualofa;Oceania
-183;Trindade e Tobago;Porto de Espanha;América
-184;Tunísia;Tunes;África
-185;Turcomenistão;Asgabate;Ásia
-186;Turquia;Ancara;Ásia
+183;Trindade e Tobago;Porto de Espanha;Amï¿½rica
+184;Tunï¿½sia;Tunes;ï¿½frica
+185;Turcomenistï¿½o;Asgabate;ï¿½sia
+186;Turquia;Ancara;ï¿½sia
 187;Tuvalu;Funafuti;Oceania
-188;Ucrânia;Quieve;Europa
-189;Uganda;Campala;África
-190;Uruguai;Montevideu;América
-191;Usbequistão;Tasquente;Ásia
+188;Ucrï¿½nia;Quieve;Europa
+189;Uganda;Campala;ï¿½frica
+190;Uruguai;Montevideu;Amï¿½rica
+191;Usbequistï¿½o;Tasquente;ï¿½sia
 192;Vanuatu;Porto Vila;Oceania
 193;Vaticano;Vaticano;Europa
-194;Venezuela;Caracas;América
-195;Vietname;Hanói;Ásia
-196;Zâmbia;Lusaca;África
-197;Zimbábue;Harare;África
+194;Venezuela;Caracas;Amï¿½rica
+195;Vietname;Hanï¿½i;ï¿½sia
+196;Zï¿½mbia;Lusaca;ï¿½frica
+197;Zimbï¿½bue;Harare;ï¿½frica
